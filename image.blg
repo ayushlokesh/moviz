@@ -1,0 +1,48 @@
+This is BibTeX, Version 0.99d (TeX Live 2019/Debian)
+Capacity: max_strings=200000, hash_size=200000, hash_prime=170003
+The top-level auxiliary file: image.aux
+The style file: unsrt.bst
+Database file #1: image.bib
+Warning--I didn't find a database entry for "turing50"
+You've used 2 entries,
+            1791 wiz_defined-function locations,
+            458 strings with 3736 characters,
+and the built_in function-call counts, 360 in all, are:
+= -- 31
+> -- 8
+< -- 0
++ -- 4
+- -- 2
+* -- 20
+:= -- 60
+add.period$ -- 5
+call.type$ -- 2
+change.case$ -- 2
+chr.to.int$ -- 0
+cite$ -- 2
+duplicate$ -- 14
+empty$ -- 43
+format.name$ -- 2
+if$ -- 77
+int.to.chr$ -- 0
+int.to.str$ -- 2
+missing$ -- 1
+newline$ -- 12
+num.names$ -- 2
+pop$ -- 8
+preamble$ -- 1
+purify$ -- 0
+quote$ -- 0
+skip$ -- 7
+stack$ -- 0
+substring$ -- 25
+swap$ -- 2
+text.length$ -- 0
+text.prefix$ -- 0
+top$ -- 0
+type$ -- 0
+warning$ -- 0
+while$ -- 4
+width$ -- 3
+write$ -- 21
+(There was 1 warning)
